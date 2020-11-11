@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998649112680",
+    "firebase_url": "https://rest-api-app.firebaseio.com",
+    "project_id": "rest-api-app",
+    "storage_bucket": "rest-api-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998649112680:android:24b5868d1caa0536c373dd",
+        "android_client_info": {
+          "package_name": "com.example.api_blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998649112680-sun71mclih6pslgtjktg1490m6ae0s6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.api_blog_app",
+            "certificate_hash": "282a1b629711aa2b68a355ac028d9ce89f842465"
+          }
+        },
+        {
+          "client_id": "998649112680-qp5ovee67tlkacjri3ncmb7vgigl2aua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-guNcKRiM3j5ahy4YItNT2EG8nmPHeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998649112680-qp5ovee67tlkacjri3ncmb7vgigl2aua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
