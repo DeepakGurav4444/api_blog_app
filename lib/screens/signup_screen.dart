@@ -42,7 +42,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                   tileMode: TileMode.repeated),
             ),
             child: Padding(
-              padding: EdgeInsets.symmetric(horizontal: 20, vertical: 60),
+              padding: EdgeInsets.symmetric(horizontal: size.width * 0.05),
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
@@ -149,7 +149,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                               padding: EdgeInsets.symmetric(
                                   vertical: 20, horizontal: 40),
                               child: Text(
-                                "LOGIN",
+                                "SIGN UP",
                                 style: TextStyle(
                                   color: Colors.orange,
                                   fontWeight: FontWeight.bold,

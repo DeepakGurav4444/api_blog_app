@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:api_blog_app/screens/signin_screen.dart';
 import 'package:api_blog_app/screens/signup_screen.dart';
 import 'package:flutter/material.dart';
